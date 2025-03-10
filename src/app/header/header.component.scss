@@ -1,0 +1,20 @@
+.header {
+    background-color: #ffffff;
+    padding: 1px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+    .logo img {
+      width: 120px; /* Adjust this value to increase the width */
+      height: 90px; /* Adjust this value to increase the height */
+      margin-right: 10px; /* Adjust the margin to make the title closer to the logo */
+    }
+  
+    h1 {
+      margin: 0; /* Remove margin to attach the title closely to the logo */
+      font-size: 24px;
+      color: #333333;
+    }
+  }
+  
